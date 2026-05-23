@@ -8,3 +8,8 @@ Este repositório contém os artefatos do projeto de análise do desempenho de a
 
 ## Ética e LGPD 
 Este projeto utiliza **dados públicos** fornecidos pelo INEP. Todos os dados são previamente anonimizados na fonte, não contendo nomes, CPFs, endereços ou qualquer informação que permita a identificação pessoal dos candidatos. O projeto está 100% em conformidade com a Lei Geral de Proteção de Dados (LGPD).
+
+## Entrega Final
+- Relatório completo disponível na pasta `/docs/Entrega_Final`
+- Dataset tratado disponível na pasta `/data`
+- Scripts de processamento na pasta `/notebooks`
