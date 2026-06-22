@@ -13,3 +13,9 @@ Este projeto utiliza **dados públicos** fornecidos pelo INEP. Todos os dados s�
 - Relatório completo disponível na pasta `/docs/Entrega_Final`
 - Dataset tratado disponível na pasta `/data`
 - Scripts de processamento na pasta `/notebooks`
+### Tecnologias Utilizadas 
+- **Python (Pandas):** Processamento e limpeza de dados.
+- **Google Colab:** Ambiente de desenvolvimento em nuvem.
+- **PostgreSQL:** Persistência e modelagem de dados.
+- **Power BI:** Visualização e dashboarding.
+- **Trello:** Gestão de projeto (Kanban).
